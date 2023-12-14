@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 4 Code Quiz</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <h1>Module 4 Code Quiz</h1>
+        <div id="question"></div>
+        <div id="choices"></div>
+        <div id="timer">Time: <span id="time">60</span> seconds</div>
+        <div id="score">Score: <span id="score-value">0</span></div>
+        <button id="start-btn">Start Quiz</button>
+        <div id="game-over" style="display: none;">
+            <label for="initials">Enter Initials:</label>
+            <input type="text" id="initials" maxlength="3">
+            <button id="submit-btn" onclick="saveScore()">Submit</button>
+        </div>
+    </div>
+
+    <script src="assets/script.js"></script>
+</body>
+</html>

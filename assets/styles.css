@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+#quiz-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+#question {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#choices {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.choice {
+    margin: 0 10px 10px 10px;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#timer {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#score {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+#game-over {
+    margin-top: 20px;
+}
+
+input {
+    text-transform: uppercase;
+}
