@@ -23,7 +23,7 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 [https://github.com/AndrewDotTee/4th-module-Interactive-code-quiz](https://github.com/AndrewDotTee/4th-module-Interactive-code-quiz)
 
 You can access the deployed application with the GitHub Pages link:
-[https://AndrewDotTee.github.io/4th-module-Interactive-code-quiz/](https://AndrewDotTee.github.io/4th-module-Interactive-code-quiz/)
+[https://AndrewDotTee.github.io/4th-module-Interactive-code-quiz/](https://andrewdottee.github.io/4th-module-Interactive-code-quiz)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/AndrewDotTee/4th-module-interactive-code-quiz/blob/main/LICENSE).
