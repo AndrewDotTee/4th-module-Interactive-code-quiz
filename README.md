@@ -10,7 +10,11 @@ A basic HTML layout was created for this homework with separate sections for the
 The end user can save their score by entering their initials in the text box, which triggers the save function. The actual score saving process has not been coded yet and is javascript sided.
 
 ## Screenshot
-tba
+
+Beginning of the code quiz game screenshot:
+![](https://github.com/AndrewDotTee/4th-module-Interactive-code-quiz/blob/main/assets/module-4-beginning-of-game-screenshot.jpg)
+
+End of the code quiz game screenshot:
 
 ## Installation Output
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
