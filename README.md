@@ -15,6 +15,8 @@ Beginning of the code quiz game screenshot:
 ![](https://github.com/AndrewDotTee/4th-module-Interactive-code-quiz/blob/main/assets/module-4-beginning-of-game-screenshot.jpg)
 
 End of the code quiz game screenshot:
+![](https://github.com/AndrewDotTee/4th-module-Interactive-code-quiz/blob/main/assets/module-4-end-of-game-screenshot.jpg)
+
 
 ## Installation Output
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
